@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'platzi_trips.dart';
+import 'home/platzi_trips.dart';
 
 void main() {
   runApp(MyApp());

@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'button_rounded.dart';
+import '../controls/button_rounded.dart';
 
 class DescriptionPlace extends StatelessWidget {
   String namePlace;

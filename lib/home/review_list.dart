@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'review.dart';
+import '../controls/review.dart';
 
 class ReviewList extends StatelessWidget {
   String details = "1 Review 5 Photos";
